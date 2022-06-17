@@ -7,7 +7,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 
-public class App {
+public class bubbleSort {
     public static void main(String[] args) {
 
         int[] intoflist = new int[50];
